@@ -1,0 +1,276 @@
+.main {
+    display: inline-block;
+     display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    text-align: left;
+    height: 60px;
+    width: 100;
+}
+
+.txt1{
+color: gold;
+}
+.f1{
+ float: right;
+
+}
+.f2{
+ float: right;
+ margin: auto;
+}
+.f3{
+ float: right;
+ margin: auto;
+}
+
+.main h1{
+    display: inline-block;
+}
+.main p{
+    display: inline-block;
+}
+.main img{
+    display: inline-block;
+}
+.img1{
+width: 25px;
+height: 25px;
+position: absolute;
+right: 20px;
+}
+.img2{
+width: 25px;
+height: 25px;
+position: absolute;
+right: 100px;
+}
+
+.block1{
+    display: inline-block;
+    background-color: blueviolet;
+    width: 100%;
+    justify-content: space-between;
+    color: white;
+}
+.but1{
+  background-color: yellow;
+  display: inline-block;
+  height: 40px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+}
+.but2{
+  background-color: rgb(170, 255, 0);
+  display: inline-block;
+  height: 40px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+}
+.img3{
+     float: right;
+     margin-right: 20px;  
+
+}
+.button{
+    position: absolute;
+    left: 0%; 
+    bottom: 250px;
+}
+
+
+.block2{
+    display: inline-block;
+    /*background-color: crimson;*/
+    width: 1475px;
+    height: 500px;
+}
+.h3bl2{
+    text-align: center;
+}
+.txt2{
+text-align: center;
+}
+.txt3{
+  text-align: center;
+  
+}
+.img4{
+    width: 120px;
+    height: 120px;
+}
+.img5{
+    width: 120px;
+    height: 120px;
+}
+.img6{
+    width: 120px;
+    height: 120px;
+}
+.plus{
+    width: 25px;
+    height: 25px;
+    float: right;
+    
+}
+
+
+.tab1{
+display: inline-block;
+border: 2px solid black;
+width: 200px;
+height: 300px;
+border-radius: 25px; 
+padding: 10px 20px;
+}
+.tab2{
+display: inline-block;
+border: 2px solid black;
+width: 200px;
+height: 300px;
+border-radius: 25px; 
+padding: 10px 20px;
+}
+.tab3{
+display: inline-block;
+border: 2px solid black;
+width: 200px;
+height: 300px;
+border-radius: 25px; 
+
+}
+.tabmain{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.block3{
+    background-color: gainsboro;
+    display: inline-block;
+    padding: 20px;
+    width: 1475px;
+    height: 700px;
+}
+
+.smsposition{
+    width: 100%;
+    text-align: center;
+}
+
+.smsicon{
+    width: 120px;
+    height: 120px;
+    text-align: center;
+}
+.n1{
+    color: rgb(192, 43, 226);
+}
+.registr{
+  display: block;
+   text-align: right;
+   width: 1475px;
+   height: 250px;
+}
+.s1{
+    border-radius: 10px;
+    width: 200px;
+    height: 35px;
+}
+.txtbl3{
+    color: blueviolet;
+}
+.burteg{
+    color: black;
+    background-color: gold;
+    height: 25px;
+    width: 100px;
+}
+.iconwhatsap{
+    width: 25px;
+    height: 25px;
+}
+.whatssapp{
+   display: inline-block;
+}
+
+.line{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.create-line {
+    width: 100px;
+    border-top: 3px solid #32a1ce;
+    display: block;
+    text-align: center;
+  }
+
+  .textbl3{
+    text-align: left;
+    width: 440px;
+  }
+  .h2bl3{
+    text-align: center;
+  }
+
+.block4{
+   display: inline-block; 
+   width: 100%;
+   height: 100%;
+   background-color: blueviolet;
+}
+
+.main2{
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    text-align: left;
+    height: 60px;
+    width: 100;
+}
+
+.obsv{
+display: inline-block;
+background-color: red;
+width: 100%;
+height: 50px;
+}
+
+.create-line2 {
+    width: 80%;
+    border-top: 3px solid #32a1ce;
+    display: inline-block;
+    text-align: center;
+  }
+  .line2{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.lastbut{
+    
+}
+.butlst{
+    width: 70px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.lasttxt{
+    color: white;
+    width: 100%;
+    text-align: center;
+}
